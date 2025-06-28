@@ -19,3 +19,35 @@ Feature Importance: For the Random Forest model, the top features influencing ho
 This end-to-end approach provides insight into how different machine learning models perform on a real-world regression problem and highlights the importance of data preprocessing and model tuning.
 
 
+# Skills and Technologies Used
+*Programming Language*: Python
+
+*Data Analysis & Manipulation*: Pandas, NumPy
+
+*Data Visualization*: Matplotlib, Seaborn, Missingno
+
+*Machine Learning*:
+
+*Algorithms*: Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regressor
+
+*Model Tuning*: GridSearchCV for hyperparameter optimization
+
+*Data Preprocessing*:
+
+Handling missing data
+
+One-hot encoding of categorical variables
+
+Feature scaling with StandardScaler
+
+*Model Evaluationv*:
+
+*Metrics*: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R-squared (R2) score
+
+Residual analysis and scatter plots for predicted vs actual values
+
+*Environment*: Google Colab (with integration of Google Drive for dataset access)
+
+
+
+
