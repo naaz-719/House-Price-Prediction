@@ -20,7 +20,7 @@ This end-to-end approach provides insight into how different machine learning mo
 
 
 # Skills and Technologies Used
-*Programming Language*: Python
+#*Programming Language*#: Python
 
 *Data Analysis & Manipulation*: Pandas, NumPy
 
