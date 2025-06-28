@@ -20,34 +20,34 @@ This end-to-end approach provides insight into how different machine learning mo
 
 
 # Skills and Technologies Used
-#*Programming Language*#: Python
+Programming Language: Python
 
-*Data Analysis & Manipulation*: Pandas, NumPy
+Data Analysis & Manipulation:
+Pandas, NumPy
 
-*Data Visualization*: Matplotlib, Seaborn, Missingno
+Data Visualization:
+Matplotlib, Seaborn, Missingno
 
-*Machine Learning*:
+Machine Learning:
 
-*Algorithms*: Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regressor
+Algorithms: Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regressor
 
-*Model Tuning*: GridSearchCV for hyperparameter optimization
+Model Tuning: GridSearchCV for hyperparameter optimization
 
-*Data Preprocessing*:
+Data Preprocessing:
 
 Handling missing data
 
 One-hot encoding of categorical variables
 
-Feature scaling with StandardScaler
+Feature scaling using StandardScaler
 
-*Model Evaluationv*:
+Model Evaluation:
 
-*Metrics*: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R-squared (R2) score
+Metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), R-squared (R²) score
 
-Residual analysis and scatter plots for predicted vs actual values
+Residual analysis and scatter plots for actual vs. predicted values
 
-*Environment*: Google Colab (with integration of Google Drive for dataset access)
-
-
-
+Environment:
+Google Colab (with Google Drive integration for dataset access)
 
